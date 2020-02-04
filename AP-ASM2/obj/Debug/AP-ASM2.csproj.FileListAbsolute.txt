@@ -1,0 +1,2 @@
+C:\asm\AP\AP-ASM2\AP-ASM2\bin\Debug\AP-ASM2.exe.config
+C:\asm\AP\AP-ASM2\AP-ASM2\obj\Debug\AP-ASM2.csprojResolveAssemblyReference.cache
